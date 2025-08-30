@@ -7,9 +7,9 @@ To perform a comparative analysis of different prompting patterns and evaluate h
 
 1. Select prompt patterns:
 
-  Broad / Unstructured Prompt
+   * Broad / Unstructured Prompt
 
-  Refined / Structured Prompt
+   * Refined / Structured Prompt
 
 2. Define test scenarios: Summarization, Problem-Solving, Creative Writing, Coding.
 
