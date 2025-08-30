@@ -1,9 +1,9 @@
-## EXP-2: Prompt Engineering
-### Aim
+# EXP-2: Prompt Engineering
+## Aim
 
 To perform a comparative analysis of different prompting patterns and evaluate how large language models respond to broad/unstructured prompts versus refined/clear prompts across multiple scenarios.
 
-### Algorithm
+## Algorithm
 
 Select prompt patterns:
 
@@ -21,36 +21,36 @@ Evaluate based on accuracy, depth, and relevance.
 
 Compare and conclude findings.
 
-### Experiment Scenarios
-## Scenario 1: Summarization
+## Experiment Scenarios
+### Scenario 1: Summarization
 
 Unstructured Prompt: Tell me about AI.
 
 Refined Prompt: Summarize Artificial Intelligence in under 100 words focusing on its applications in healthcare.
 
-## Scenario 2: Problem-Solving
+### Scenario 2: Problem-Solving
 
 Unstructured Prompt: Solve this math problem.
 
 Refined Prompt: Solve 25x + 10 = 85 and show step-by-step calculation.
 
-## Scenario 3: Creative Writing
+### Scenario 3: Creative Writing
 
 Unstructured Prompt: Write a story.
 
 Refined Prompt: Write a 100-word short story about a robot who learns empathy.
 
-## Scenario 4: Coding Task
+### Scenario 4: Coding Task
 
 Unstructured Prompt: Write code for sorting.
 
 Refined Prompt: Write a Python program to sort a list of integers in ascending order using Bubble Sort algorithm.
 
-### Sample Output Comparison
+## Sample Output Comparison
 <img width="873" height="371" alt="image" src="https://github.com/user-attachments/assets/b51416f4-1b16-4365-b4e5-2c4b6df28bd4" />
 
 
-### Result
+## Result
 
 Refined prompting consistently produced better, accurate, and more structured outputs than unstructured prompts.
 This shows that Prompt Engineering is crucial for optimizing responses from LLMs.
