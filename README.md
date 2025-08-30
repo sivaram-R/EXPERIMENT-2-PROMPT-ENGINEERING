@@ -5,21 +5,21 @@ To perform a comparative analysis of different prompting patterns and evaluate h
 
 ## Algorithm
 
-Select prompt patterns:
+1. Select prompt patterns:
 
-Broad / Unstructured Prompt
+  Broad / Unstructured Prompt
 
-Refined / Structured Prompt
+  Refined / Structured Prompt
 
-Define test scenarios: Summarization, Problem-Solving, Creative Writing, Coding.
+2. Define test scenarios: Summarization, Problem-Solving, Creative Writing, Coding.
 
-Provide inputs to the model using both prompt types.
+3. Provide inputs to the model using both prompt types.
 
-Collect and record outputs.
+4. Collect and record outputs.
 
-Evaluate based on accuracy, depth, and relevance.
+5. Evaluate based on accuracy, depth, and relevance.
 
-Compare and conclude findings.
+6. Compare and conclude findings.
 
 ## Experiment Scenarios
 ### Scenario 1: Summarization
